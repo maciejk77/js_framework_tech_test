@@ -23,6 +23,8 @@ Add javascript to 'MyFramework.js' so that in the HTML page below as the user en
 </html>
 ```
 
+We're happy to see a simple solution in JS/JQuery, but for bonus points please BDD/TDD using Jasmine and JasmineJQuery. Either way we want to see clean JavaScript!
+
 Part 2
 -------
 
@@ -43,5 +45,5 @@ Extend MyFramework.js so that clicing on the 'Change Message' button in the HTML
 </html>
 ```
 
-Please keep your javascript code as clean as possible and make sure that everything in developed test first in an appropriate BDD/TDD manner.
+Again we're happy to see a simple solution in JS/JQuery, but for bonus points please BDD/TDD using Jasmine and JasmineJQuery.  Either way we want to see clean JavaScript!
 
