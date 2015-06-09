@@ -1,10 +1,7 @@
-// Simple solution based on id not on mf-model/bind as yet
-
 $(function(){
-  $('#mf-model').keydown(function(){
+  $('[mf-model]').keydown(function(){
     setTimeout(function() {
-      $('#mf-bind').text($('#mf-model').val());
+      $('[mf-bind]').text($('[mf-model]').val());
     }, 50);
   });
 });
-
